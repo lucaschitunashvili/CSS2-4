@@ -1,0 +1,247 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#lorem {
+    max-width: 1400px;
+    width: 100%;
+    height: 674px;
+    background-image: url(images/image\ \(4\).png);
+    margin: 0 auto;
+    margin-top: 156px;
+}
+
+#lorem-text {
+    max-width: 1258px;
+    width: 100%;
+    height: 159px;
+    margin: 0 auto;
+    padding-top: 39px;
+}
+
+#lorem-text p {
+    color: #FFF;
+    font-size: 44.452px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#first {
+    max-width: 1137px;
+    width: 100%;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 115px;
+    background: #EBF8FE;
+    border-radius: 24px;
+}
+
+#first-launch {
+    max-width: 1000px;
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+#first-launch h2 {
+    color: #181D27;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+#building {
+    max-width: 1073px;
+    width: 100%;
+    height: 88px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+#building p {
+    color: #535862;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+#enter {
+    max-width: 488px;
+    width: 100%;
+    height: 74px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#enter p {
+    color: #535862;
+    margin-top: 8px;
+}
+
+#subscribe {
+    margin-left: 24px;
+    max-width: 119px;
+    width: 100%;
+    height: 48px;
+    background: #007CB8;
+    border: 2px solid #FFF;
+    border-radius: 8px;
+    color: #FFF;
+
+}
+
+#email {
+    max-width: 340px;
+    height: 48px;
+    width: 100%;
+    background: #FFF;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+}
+
+#email::placeholder {
+    padding-left: 14px;
+    color: #717680;
+}
+
+#submit-form {
+    max-width: 546px;
+    width: 100%;
+    height: 638px;
+    background: #EBF8FE;
+    margin: 0 auto;
+    margin-top: 72px;
+    border-radius: 24px;
+}
+
+#start {
+    max-width: 230px;
+    width: 100%;
+    height: 60px;
+    margin-left: 32px;
+    padding-top: 40px;
+}
+
+#start h2 {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#please {
+    display: block;
+    margin-top: 30px;
+    margin-left: 32px;
+}
+
+#form-div {
+    max-width: 482px;
+    width: 100%;
+    height: 172px;
+    margin-top: 50px;
+    margin-left: 32px;
+}
+
+#full {
+    display: block;
+    margin-bottom: 8px;
+    color: #1B003D;
+}
+
+#write-name {
+    width: 100%;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    background: #EBF8FE;
+
+}
+
+#write-name::placeholder {
+    padding-left: 16px;
+    color: #6D5F8B;
+    font-size: 14px;
+}
+
+#email-second {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color: #1B003D;
+
+}
+
+#write-email {
+    width: 100%;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    background: #EBF8FE;
+}
+
+#write-email::placeholder {
+    padding-left: 16px;
+    color: #6D5F8B;
+    font-size: 14px;
+}
+
+#would {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 7px;
+    color: #1B003D;
+    font-size: 14px;
+}
+
+#break {
+    color: #6D5F8B;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#yes {
+    margin-right: 11px;
+}
+
+#yes-first {
+    margin-bottom: 10px;
+}
+
+#yes-second {
+    margin-top: 10px;
+}
+
+#yes-third {
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+
+#c-language {
+    margin-top: 7px;
+    margin-right: 11px;
+}
+
+#c-second {
+    margin-top: 10px;
+    margin-right: 11px;
+}
+
+#java {
+    margin-top: 10px;
+    margin-right: 11px;
+}
+
+#python {
+    margin-top: 10px;
+    margin-right: 11px;
+}
+
+#language {
+    color: #1B003D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
